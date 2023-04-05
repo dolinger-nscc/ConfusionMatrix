@@ -15,5 +15,8 @@ The visualization returned from the function will be a confusion matrix with def
 *  [matlotlib](https://matplotlib.org/)
 *  [Seaborn](https://seaborn.pydata.org/)
 
+## Walk-through  
+<iframe width="1525" height="849" src="https://www.youtube.com/embed/9z9cbMsyn50" title="Seaborn Confusion Matrix" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>  
+
 ## Installation and Usage
 The function requires that the matplotlib,  seaborn, and scikit-learn (sklearn) modules be installed. Both of these libraries are imported into the module.
