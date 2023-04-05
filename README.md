@@ -7,7 +7,7 @@ When testing classification models I frequently require a confusion matrix. Seab
 The data used is a mock-up of results from an RGB classification model. The use-case is there is a target called colour and the three classifications of colour are Red, Green, and Blue. 
 
 ## Visualizations
-![small matrix]('/img/matrix_sm.jpg')
+![small matrix]('img/matrix_sm.jpg')
 ## Technologies Used
 List the technologies and tools used in the project.
 
