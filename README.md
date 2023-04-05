@@ -16,9 +16,6 @@ The visualization returned from the function will be a confusion matrix with def
 *  [Seaborn](https://seaborn.pydata.org/)
 
 ## Walk-through  
-[![Confusion Matrix Wrapper Function]
-(https://img.youtube.com/vi/9z9cbMsyn50/maxresdefault.jpg)]
-(https://www.youtube.com/watch?v=9z9cbMsyn50)
 {% include youtube.html id="9z9cbMsyn50" %}
 
 ## Installation and Usage
