@@ -16,6 +16,8 @@ The visualization returned from the function will be a confusion matrix with def
 *  [Seaborn](https://seaborn.pydata.org/)
 
 ## Walk-through  
+Click on the image below to watch the video:  
+
 [![Seaborn Wrapper Function](https://img.youtube.com/vi/9z9cbMsyn50/0.jpg)](https://www.youtube.com/watch?v=9z9cbMsyn50)
 
 ## Installation and Usage
