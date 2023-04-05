@@ -10,7 +10,7 @@ The data used is a mock-up of results from an RGB classification model. The use-
 The visualization returned from the function will be a confusion matrix with defaults that look like the following illustration:
 ![small matrix](img/matrix_sm.jpg)
 ## Technologies Used
-*  [scikit-learn](https://scikit-learn.org/stable/index.html)
+*  [scikit-learn](**https://scikit-learn.org/stable/index.html**)
 *  matlotlib
 
 ## Installation and Usage
