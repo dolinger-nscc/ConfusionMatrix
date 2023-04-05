@@ -7,11 +7,12 @@ When testing classification models I frequently require a confusion matrix. Seab
 The data used is a mock-up of results from an RGB classification model. The use-case is there is a target called colour and the three classifications of colour are Red, Green, and Blue. 
 
 ## Visualizations
-The visualization returned from the function will be a confusion matrix with default 
+The visualization returned from the function will be a confusion matrix with defaults that look like the following illustration:
 ![small matrix](img/matrix_sm.jpg)
 ## Technologies Used
-List the technologies and tools used in the project.
+*  scikit-learn
+*  matlotlib
 
 ## Installation and Usage
-Provide instructions for installing and running the project locally.
+The function requires that matplotlib and scikit-learn (sklearn) be installed. Both of these libraries are imported into the module.
 
