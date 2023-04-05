@@ -10,9 +10,9 @@ The data used is a mock-up of results from an RGB classification model. The use-
 The visualization returned from the function will be a confusion matrix with defaults that look like the following illustration:
 ![small matrix](img/matrix_sm.jpg)
 ## Technologies Used
-*  [scikit-learn](**https://scikit-learn.org/stable/index.html**)
-*  matlotlib
+*  [scikit-learn](https://scikit-learn.org/stable/index.html)
+*  [matlotlib](https://matplotlib.org/)
+*  [Seaborn](https://seaborn.pydata.org/)
 
 ## Installation and Usage
-The function requires that matplotlib and scikit-learn (sklearn) be installed. Both of these libraries are imported into the module.
-
+The function requires that the matplotlib,  seaborn, and scikit-learn (sklearn) modules be installed. Both of these libraries are imported into the module.
